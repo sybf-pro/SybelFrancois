@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sybel Francois</h1>
+<h1 align="center">Hi 👋, I'm Sy</h1>
 <h3 align="center">A Product Manager who is trying to discover his passion, and the contributions he can make in this world....</h3>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -6,10 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SybelFrancois&label=Profile%20views&color=0e75b6&style=flat" alt="SybelFrancois" /> </p>
                                                                                                             
 - 🔭 I’m currently working on **WeThere**                                                     
-- 📫 You can reach me @: **sybelfrancois37@gmail.com**
+- 📫 You can reach me on **LinkedIn**
 - 👯 I'm open to collaborations and open source contributions
 - 🌱 I’m currently learning how to best use AI/ML
-- 😄 Fun fact: Some people believe I am funny 
+
   
 
 <div style="position: absolute; top: 0; right: 0;">
